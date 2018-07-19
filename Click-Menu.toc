@@ -1,8 +1,0 @@
-## Interface: 70300
-## Author: 10leej
-## Title: Click Menu
-## Notes: Simple menu with all your micromenu buttons
-## Credits: Phanx
-
-Localization.lua
-core.lua
