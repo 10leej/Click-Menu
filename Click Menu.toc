@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 11302
 ## Author: 10leej
 ## Title: Click Menu
 ## Notes: Simple menu with all your micromenu buttons

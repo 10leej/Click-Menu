@@ -1,0 +1,67 @@
+3.0.1
+.toc bump for game version 8.1.5
+
+3.0
+General Code Cleanup
+Renames:
+Talents - "Specialization"
+Quest Log - "Map & Quest Log"
+Friends - "Social"
+Mounts - "Collections"
+
+Removed:
+Pets
+Toy Box
+Heirlooms
+Button mode
+
+Disabled in code:
+Zone battlefield Map
+
+Added:
+Text when someone has an addon Click menu won't work with that I'm aware of
+
+2.8.1
+.toc bump
+Fix Calender/Shop
+
+2.8
+Fixed Mounts/Pets/Toybox
+Added Heirlooms
+
+2.7
+fancy button mode, mad a more sensible config table (for me at least) add config how to
+automatic overrides for incompatible addons (only affects map integration)
+fixed quest log error
+
+2.6
+localizations work coutesy of Phanx, guess people like this addon afterall
+Licensed under MIT license
+
+2.5.1
+toc bump
+Added toybox (curtousey of Imithat)
+
+2.5
+Added a bit of localization code not working yet. However there's a localization file now.
+Removed all but Logout and Quit from the game menu options (Sorry guys list was a little big)
+Rework opening function so pings work
+Removed game menu opening option I must've coded while drunk
+
+2.4
+Optimized a bit of code, got plans for localization in the future NEED TRANSLATORS!
+I decded that minimap buttons need to be handled elsewhere. Stay tuned
+
+2.3
+Added toggle bag function
+
+2.2
+Added game menu options think I'm done updating for the night....
+
+2.1
+forgot to add the update functions so the minimap buttons work.....
+
+2
+expanded list with more options
+Replaced radials with icons, probably could done a better job on some
+Added minimap icons this is lightly tested though so might not work (please report in comments if there's any minimap button not showing up)
